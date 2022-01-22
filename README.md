@@ -5,7 +5,7 @@ An online recipe website for housewives, to create a delicious homemade meal for
 
 <p align="center">
   <br />
-<img src="https://user-images.githubusercontent.com/88779731/150644583-1f905fc3-c400-4c6c-8dc5-bd4fdbf957d2.jpg" width="300" height="100"/>
+  <img src="https://user-images.githubusercontent.com/88779731/150644583-1f905fc3-c400-4c6c-8dc5-bd4fdbf957d2.jpg" width="300" height="100"/>
 </p>
 
 <h2>Tools & Technologies</h2>

@@ -63,7 +63,7 @@ export default class EditPost extends Component{
     });
     swal({
       title: "Done!",
-      text: "Customer Successfully Added",
+      text: "Update Successful",
       icon: "success",
       button: "Okay!"
   })

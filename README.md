@@ -11,7 +11,7 @@ An online recipe website for housewives, to create a delicious homemade meal for
 <h2>About this project</h2>
   <h3> </h3>
    
-https://user-images.githubusercontent.com/88779731/151024556-94b8b407-55fe-4971-b3bc-89c4eadde2b9.mp4
+https://user-images.githubusercontent.com/88779731/151027941-27b1e34d-16fb-4072-aa1d-b94b1684ed89.mp4
 
 
 <h2>Tools & Technologies</h2>

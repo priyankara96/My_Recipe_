@@ -17,7 +17,7 @@ function Home() {
       <div className='homeView' style={{backdropFilter:'blur(10px )'}}>
       <h3 className="text-center" > <font face = "Comic sans MS" size ="9" class="text-danger" > Welcome to home page! </font> </h3>
        <br/><br/><br/><br/><br/>
-      <video src={ ('https://vod-progressive.akamaized.net/exp=1643135418~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3168%2F17%2F440844661%2F1927827452.mp4~hmac=cc0db36a83e2374973dd1c025afb33284bb78e7900675c6d67961d54f237a2e8/vimeo-prod-skyfire-std-us/01/3168/17/440844661/1927827452.mp4?download=1&filename=production+ID%3A4932519.mp4')}   autoPlay loop muted />
+      <video src={ ('https://vod-progressive.akamaized.net/exp=1643136101~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4241%2F22%2F571208568%2F2699622131.mp4~hmac=516fa99e503fb2057d63235ed4050feb17c94cfbed81147282e25de265064441/vimeo-prod-skyfire-std-us/01/4241/22/571208568/2699622131.mp4?download=1&filename=pexels-kampus-production-8626675.mp4')}   autoPlay loop muted />
        <h1 className="text-center" > My Recipe </h1>
       <p>What are you waiting for?</p>
       <div>

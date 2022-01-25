@@ -1,21 +1,21 @@
 # My_Recipe_
 An online recipe website for housewives, to create a delicious homemade meal for the whole family.
 
-<h1 align="center">~~ My Recipe - Web Application ~~</h1>
+<h1 align="center"> ~~ My Recipe - Web Application ~~ </h1>
 
 <p align="center">
   <br />
   <img src="https://user-images.githubusercontent.com/88779731/150644583-1f905fc3-c400-4c6c-8dc5-bd4fdbf957d2.jpg" width="300" height="100"/>
 </p>
 
-<h2>About this project</h2>
+<h2> About this project </h2>
   <h3> </h3>
    
 https://user-images.githubusercontent.com/88779731/151027941-27b1e34d-16fb-4072-aa1d-b94b1684ed89.mp4
 
-<h2>Tools & Technologies</h2>
+<h2> Tools & Technologies </h2>
   
-<h3>Tools :</h3>  
+<h3> Tools : </h3>  
 
 - Visual Studio Code
 
@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/88779731/151027941-27b1e34d-16fb-4072-
     <img src="https://iconape.com/wp-content/png_logo_vector/postman.png"  width="80" height="80"/>
 
   
-<h3>Technologies :</h3>
+<h3> Technologies : </h3>
   
 - MERN stack (MongoDB | Express.js | React.js | Node.js)
 
